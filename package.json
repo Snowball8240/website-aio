@@ -1,5 +1,5 @@
 {
-  "name": "AE",
+  "name": "AeroExploits",
   "version": "2.0.0",
   "description": "Bob was here",
   "type": "module",
@@ -11,9 +11,8 @@
     "start": "node index.js"
   },
   "keywords": [
-    "proxy"
+    "notap"
   ],
-  "author": "z1g Project",
   "license": "MIT",
   "dependencies": {
     "@tomphttp/bare-server-node": "^2.0.1",
