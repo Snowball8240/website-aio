@@ -1,7 +1,7 @@
 {
-  "name": "sodium-instance",
+  "name": "sodium",
   "version": "2.0.0",
-  "description": "Sodium is a site used for evading internet censorship",
+  "description": "Bob was here",
   "type": "module",
   "engines": {
     "npm": ">=9.8.1",
